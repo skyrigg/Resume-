@@ -1,0 +1,14 @@
+body { 
+    background-color: rgb(255, 255, 255);
+}
+
+hr {color: blue;}
+
+p {
+    font-size: medium;
+    color: rgb(99, 99, 99);
+}
+
+.text-primary2 {color: rgb(189, 93, 56);}
+
+.heading {color: black;}
